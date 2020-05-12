@@ -1,4 +1,5 @@
-# SpeechImpactPrediction
+# SpeechImpactPrediction &nbsp;  [![HitCount](http://hits.dwyl.com/shahrishal@gmailcom/Speech-Impact-Prediction.svg)](http://hits.dwyl.com/shahrishal@gmailcom/Speech-Impact-Prediction)
+
 Predicting Views, TalkType and Popularity of Speeches
 
 Speeches play a pivotal role in inspiring and galvanising individuals and have the power to reach the masses. The topic, content, and delivery style directly contribute to the popularity or the number of views for the speech. That is why it is valuable to predict these factors to understand how speeches resonate with the audience.
